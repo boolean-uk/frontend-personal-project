@@ -23,13 +23,13 @@
 
 - TODO:
 
-### What I found challenging
+### What I found challenging / surprising
 
 - From prototyping:
   - How many audio contexts to use, I initially only used one global context but could not envision how to loop the playtrack as well as add more stuff during playback
 
 - From the real thing:
-  - TODO:
+  - I was surprised I haven't used `useRef()` before this point, but it's benefits were apparent doing this project. Timing is key for music applications, so one doesn't want render timing to get in the way of specific things. It was also amusing to see the [example on the React docs, using `setInterval()`,](https://react.dev/reference/react/useRef#referencing-a-value-with-a-ref) was one of the exact use cases I was after.
 
 ## Links
 
