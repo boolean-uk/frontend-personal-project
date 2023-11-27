@@ -2,8 +2,6 @@
 
 ## Planning
 
-App.jsx >
-
 ![Diagram](diagram.png)
 
 ## Tech stack
