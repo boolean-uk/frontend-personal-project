@@ -30,3 +30,12 @@
 ### Extended
 - [ ] User sees daily stats -> will not do that, no value imo
 - [x] The user sees total practice stats
+
+# About This Personal Project
+- Planning & Inspiration: I used a similar app in college and found it useful, it was [Phase6](https://www.phase-6.de/)
+- Tech Stack (i.e. what technology / frameworks / libraries you used): Html CSS and React / JS, because I wanted to apply all my knowledge  here we've learnt so far
+- What I enjoyed: figuring out the importing by file, CSS light / dark theme distinctions!
+- What I found challenging: I learnt to hate CSV files for being totally unhinged and there being no standard for it
+Links
+- Online Hosted Project (if deployed -- deployment is optional but recommended): not deployed as it uses JSON server currently for a database substitute
+- [Project GitHub Repo](https://github.com/AllyDouillette/vocab-trainer/)
