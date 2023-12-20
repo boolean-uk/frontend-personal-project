@@ -1,7 +1,7 @@
 # Flashcard App
 
 ## How do I use this?
-- git clone this repo to your machine with "git clone …@github.com:vocab-trainer.git"
+- git clone this repo: https://github.com/AllyDouillette/vocab-trainer/ to your machine with "git clone …@github.com:vocab-trainer.git"
 - cd in the directory
 - run "npm ci"
 - make TWO terminals, and run "npm run dev" and "npm run server"
