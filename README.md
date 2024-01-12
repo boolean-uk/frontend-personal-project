@@ -1,14 +1,5 @@
 ## About My Frontend Personal Project
-       - Planning & Inspiration _(e.g. include drawings, diagrams, links to sites used to get ideas, etc.)_
-       - Tech Stack _(i.e. what technology / frameworks / libraries you used)_
-       - Why This Stack
-       - What I Enjoyed
-       - What I Found Challenging
-     - Links
-       - Online Hosted Project (if deployed -- deployment is optional but recommended)
-       - Project GitHub Repo
-   - [ ] Push your code and raise a PR, as per the usual process
-   - [ ] If any information changes, update it, and push your changes (especially important for the links)
+My final frontend project is a webapp that you can save campaigns, notes, characters and us a dice roller for dungeons and dragons.
 
 ## PLANNING AND INSPO
 - For my project I wanted to make something as practical and fun to me as possible. 
